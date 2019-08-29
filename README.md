@@ -24,9 +24,9 @@ A new flutter module project.
     [pub.dev](http://pub.dartlang.org) 或 github上搜索
 
 * 相关推荐：
-        [GSYGithubAppFlutter](https://github.com/CarGuo/GSYGithubAppFlutter) ： 超完整的Flutter项目，功能丰富，适合学习和日常使用。
-        [flutter-go](https://github.com/alibaba/flutter-go) : 阿里拍卖前端团队维护，包含 flutter 常用 140+ 组件的demo 演示与中文文档
-        [gitter](https://gitter.im/flutter/flutter) : 一个不错的Flutter交流渠道。
+    [GSYGithubAppFlutter](https://github.com/CarGuo/GSYGithubAppFlutter) ： 超完整的Flutter项目，功能丰富，适合学习和日常使用。
+    [flutter-go](https://github.com/alibaba/flutter-go) : 阿里拍卖前端团队维护，包含 flutter 常用 140+ 组件的demo 演示与中文文档
+    [gitter](https://gitter.im/flutter/flutter) : 一个不错的Flutter交流渠道。
 
 
 * 书本
