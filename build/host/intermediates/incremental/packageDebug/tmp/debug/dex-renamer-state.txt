@@ -1,0 +1,4 @@
+#Thu Aug 29 16:19:32 CST 2019
+base.0=/Users/qson/Desktop/工作区/项目/borrow_books/build/host/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

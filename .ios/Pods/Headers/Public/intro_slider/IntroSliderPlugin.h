@@ -1,0 +1,1 @@
+../../../../Flutter/.symlinks/intro_slider/ios/Classes/IntroSliderPlugin.h

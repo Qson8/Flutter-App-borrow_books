@@ -1,0 +1,9 @@
+// This is a generated file; do not edit or check into version control.
+FLUTTER_ROOT=/Users/qson/development/Flutter/flutter
+FLUTTER_APPLICATION_PATH=/Users/qson/Desktop/工作区/项目/borrow_books
+FLUTTER_TARGET=/Users/qson/Desktop/工作区/项目/borrow_books/lib/main.dart
+FLUTTER_BUILD_DIR=build
+SYMROOT=${SOURCE_ROOT}/../build/ios
+FLUTTER_BUILD_NAME=1.0.0
+FLUTTER_BUILD_NUMBER=1
+TRACK_WIDGET_CREATION=true

@@ -1,0 +1,155 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/qson/Desktop/工作区/项目/borrow_books/.android/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/qson/Desktop/工作区/项目/borrow_books/.android/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/qson/Desktop/工作区/项目/borrow_books/.android/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/qson/Desktop/工作区/项目/borrow_books/.android/app/src/main/AndroidManifest.xml:2:1-40:12
+MERGED from [:flutter] /Users/qson/Desktop/工作区/项目/borrow_books/.android/Flutter/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:3:1-14:12
+MERGED from [com.android.support:design:27.1.1] /Users/qson/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/e2f32587d2fd03aa374d7a0e43c70b27/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/qson/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b936e14e39a2174731e8fb08f20dfcbb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/qson/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/1708744ece2ece52e7ace22e58918017/AndroidManifest.xml:2:1-11:12
+MERGED from [:shared_preferences] /Users/qson/development/Flutter/flutter/.pub-cache/hosted/pub.flutter-io.cn/shared_preferences-0.5.2+1/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [:intro_slider] /Users/qson/development/Flutter/flutter/.pub-cache/hosted/pub.flutter-io.cn/intro_slider-1.2.3/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [:ovprogresshud] /Users/qson/development/Flutter/flutter/.pub-cache/hosted/pub.flutter-io.cn/ovprogresshud-0.2.1/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [:flustars] /Users/qson/development/Flutter/flutter/.pub-cache/hosted/pub.flutter-io.cn/flustars-0.2.5/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support:support-v13:27.1.1] /Users/qson/.gradle/caches/transforms-1/files-1.1/support-v13-27.1.1.aar/e7304954ef846b2927e711dd05531bac/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/qson/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/921495dacafce953d666268b857a72c4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/qson/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/30d037281bf737f475079e659a50c4bb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/qson/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/02c653d6450cb168181482e06c9d0c52/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/qson/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/9d9e0e711c48f28a63074c977245cb70/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/qson/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/f5186aca5764b22a6fe636863406f756/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/qson/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/3fe505cae2486f9dc1e3a132958e05d6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/qson/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/0b448a2bd36ff445b471c04b072f8557/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /Users/qson/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/da5f5220a60563fb594b3ca73bd1ae7d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/qson/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/8861c12a2d4ec64d36352e57ad9634f0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/qson/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/46ade6d8a2b9ea4214dc3aa5982e4371/AndroidManifest.xml:17:1-22:12
+MERGED from [com.bigkoo:svprogresshud:1.0.6] /Users/qson/.gradle/caches/transforms-1/files-1.1/svprogresshud-1.0.6.aar/07f47fa140c2246cc3d7f92b23fa5d28/AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/qson/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/dd0bce7585894b15558220e1db6ed09f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/qson/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/62c5dd112b8050cdbfb6136249efb626/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/qson/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/7025d7408f36b4c451263d2269acad20/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/qson/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/6e6a35f25c9beb20a22058ab6c5b199e/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/qson/Desktop/工作区/项目/borrow_books/.android/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/qson/Desktop/工作区/项目/borrow_books/.android/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/qson/Desktop/工作区/项目/borrow_books/.android/app/src/main/AndroidManifest.xml:2:1-40:12
+	package
+		ADDED from /Users/qson/Desktop/工作区/项目/borrow_books/.android/app/src/main/AndroidManifest.xml:3:11-50
+		INJECTED from /Users/qson/Desktop/工作区/项目/borrow_books/.android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/qson/Desktop/工作区/项目/borrow_books/.android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/qson/Desktop/工作区/项目/borrow_books/.android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/qson/Desktop/工作区/项目/borrow_books/.android/app/src/main/AndroidManifest.xml:2:1-40:12
+		INJECTED from /Users/qson/Desktop/工作区/项目/borrow_books/.android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/qson/Desktop/工作区/项目/borrow_books/.android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/qson/Desktop/工作区/项目/borrow_books/.android/app/src/main/AndroidManifest.xml:2:1-40:12
+		INJECTED from /Users/qson/Desktop/工作区/项目/borrow_books/.android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/qson/Desktop/工作区/项目/borrow_books/.android/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/qson/Desktop/工作区/项目/borrow_books/.android/app/src/main/AndroidManifest.xml:9:5-66
+MERGED from [:flutter] /Users/qson/Desktop/工作区/项目/borrow_books/.android/Flutter/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:12:5-67
+MERGED from [:flutter] /Users/qson/Desktop/工作区/项目/borrow_books/.android/Flutter/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from /Users/qson/Desktop/工作区/项目/borrow_books/.android/app/src/main/AndroidManifest.xml:9:22-64
+application
+ADDED from /Users/qson/Desktop/工作区/项目/borrow_books/.android/app/src/main/AndroidManifest.xml:16:5-39:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/qson/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/1708744ece2ece52e7ace22e58918017/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/qson/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/1708744ece2ece52e7ace22e58918017/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/qson/Desktop/工作区/项目/borrow_books/.android/app/src/main/AndroidManifest.xml:18:9-37
+	android:icon
+		ADDED from /Users/qson/Desktop/工作区/项目/borrow_books/.android/app/src/main/AndroidManifest.xml:19:9-43
+	android:name
+		ADDED from /Users/qson/Desktop/工作区/项目/borrow_books/.android/app/src/main/AndroidManifest.xml:17:9-57
+activity#com.example.borrow_books.host.MainActivity
+ADDED from /Users/qson/Desktop/工作区/项目/borrow_books/.android/app/src/main/AndroidManifest.xml:20:9-38:20
+	android:launchMode
+		ADDED from /Users/qson/Desktop/工作区/项目/borrow_books/.android/app/src/main/AndroidManifest.xml:22:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/qson/Desktop/工作区/项目/borrow_books/.android/app/src/main/AndroidManifest.xml:25:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/qson/Desktop/工作区/项目/borrow_books/.android/app/src/main/AndroidManifest.xml:26:13-55
+	android:configChanges
+		ADDED from /Users/qson/Desktop/工作区/项目/borrow_books/.android/app/src/main/AndroidManifest.xml:24:13-144
+	android:theme
+		ADDED from /Users/qson/Desktop/工作区/项目/borrow_books/.android/app/src/main/AndroidManifest.xml:23:13-47
+	android:name
+		ADDED from /Users/qson/Desktop/工作区/项目/borrow_books/.android/app/src/main/AndroidManifest.xml:21:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from /Users/qson/Desktop/工作区/项目/borrow_books/.android/app/src/main/AndroidManifest.xml:31:13-33:40
+	android:value
+		ADDED from /Users/qson/Desktop/工作区/项目/borrow_books/.android/app/src/main/AndroidManifest.xml:33:17-37
+	android:name
+		ADDED from /Users/qson/Desktop/工作区/项目/borrow_books/.android/app/src/main/AndroidManifest.xml:32:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/qson/Desktop/工作区/项目/borrow_books/.android/app/src/main/AndroidManifest.xml:34:13-37:29
+action#android.intent.action.MAIN
+ADDED from /Users/qson/Desktop/工作区/项目/borrow_books/.android/app/src/main/AndroidManifest.xml:35:17-68
+	android:name
+		ADDED from /Users/qson/Desktop/工作区/项目/borrow_books/.android/app/src/main/AndroidManifest.xml:35:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/qson/Desktop/工作区/项目/borrow_books/.android/app/src/main/AndroidManifest.xml:36:17-76
+	android:name
+		ADDED from /Users/qson/Desktop/工作区/项目/borrow_books/.android/app/src/main/AndroidManifest.xml:36:27-74
+uses-sdk
+INJECTED from /Users/qson/Desktop/工作区/项目/borrow_books/.android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/qson/Desktop/工作区/项目/borrow_books/.android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/qson/Desktop/工作区/项目/borrow_books/.android/app/src/main/AndroidManifest.xml
+MERGED from [:flutter] /Users/qson/Desktop/工作区/项目/borrow_books/.android/Flutter/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:8:5-10:41
+MERGED from [:flutter] /Users/qson/Desktop/工作区/项目/borrow_books/.android/Flutter/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:design:27.1.1] /Users/qson/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/e2f32587d2fd03aa374d7a0e43c70b27/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/qson/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/e2f32587d2fd03aa374d7a0e43c70b27/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/qson/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b936e14e39a2174731e8fb08f20dfcbb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/qson/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/b936e14e39a2174731e8fb08f20dfcbb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/qson/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/1708744ece2ece52e7ace22e58918017/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/qson/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/1708744ece2ece52e7ace22e58918017/AndroidManifest.xml:5:5-7:41
+MERGED from [:shared_preferences] /Users/qson/development/Flutter/flutter/.pub-cache/hosted/pub.flutter-io.cn/shared_preferences-0.5.2+1/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] /Users/qson/development/Flutter/flutter/.pub-cache/hosted/pub.flutter-io.cn/shared_preferences-0.5.2+1/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:intro_slider] /Users/qson/development/Flutter/flutter/.pub-cache/hosted/pub.flutter-io.cn/intro_slider-1.2.3/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:intro_slider] /Users/qson/development/Flutter/flutter/.pub-cache/hosted/pub.flutter-io.cn/intro_slider-1.2.3/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:ovprogresshud] /Users/qson/development/Flutter/flutter/.pub-cache/hosted/pub.flutter-io.cn/ovprogresshud-0.2.1/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:ovprogresshud] /Users/qson/development/Flutter/flutter/.pub-cache/hosted/pub.flutter-io.cn/ovprogresshud-0.2.1/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:flustars] /Users/qson/development/Flutter/flutter/.pub-cache/hosted/pub.flutter-io.cn/flustars-0.2.5/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:flustars] /Users/qson/development/Flutter/flutter/.pub-cache/hosted/pub.flutter-io.cn/flustars-0.2.5/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-v13:27.1.1] /Users/qson/.gradle/caches/transforms-1/files-1.1/support-v13-27.1.1.aar/e7304954ef846b2927e711dd05531bac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.1.1] /Users/qson/.gradle/caches/transforms-1/files-1.1/support-v13-27.1.1.aar/e7304954ef846b2927e711dd05531bac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/qson/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/921495dacafce953d666268b857a72c4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/qson/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/921495dacafce953d666268b857a72c4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/qson/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/30d037281bf737f475079e659a50c4bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/qson/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/30d037281bf737f475079e659a50c4bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/qson/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/02c653d6450cb168181482e06c9d0c52/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/qson/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/02c653d6450cb168181482e06c9d0c52/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/qson/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/9d9e0e711c48f28a63074c977245cb70/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/qson/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/9d9e0e711c48f28a63074c977245cb70/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/qson/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/f5186aca5764b22a6fe636863406f756/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/qson/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/f5186aca5764b22a6fe636863406f756/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/qson/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/3fe505cae2486f9dc1e3a132958e05d6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/qson/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/3fe505cae2486f9dc1e3a132958e05d6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/qson/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/0b448a2bd36ff445b471c04b072f8557/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/qson/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/0b448a2bd36ff445b471c04b072f8557/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/qson/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/da5f5220a60563fb594b3ca73bd1ae7d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/qson/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/da5f5220a60563fb594b3ca73bd1ae7d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/qson/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/8861c12a2d4ec64d36352e57ad9634f0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/qson/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/8861c12a2d4ec64d36352e57ad9634f0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/qson/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/46ade6d8a2b9ea4214dc3aa5982e4371/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/qson/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/46ade6d8a2b9ea4214dc3aa5982e4371/AndroidManifest.xml:20:5-44
+MERGED from [com.bigkoo:svprogresshud:1.0.6] /Users/qson/.gradle/caches/transforms-1/files-1.1/svprogresshud-1.0.6.aar/07f47fa140c2246cc3d7f92b23fa5d28/AndroidManifest.xml:7:5-9:41
+MERGED from [com.bigkoo:svprogresshud:1.0.6] /Users/qson/.gradle/caches/transforms-1/files-1.1/svprogresshud-1.0.6.aar/07f47fa140c2246cc3d7f92b23fa5d28/AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/qson/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/dd0bce7585894b15558220e1db6ed09f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/qson/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/dd0bce7585894b15558220e1db6ed09f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/qson/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/62c5dd112b8050cdbfb6136249efb626/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/qson/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/62c5dd112b8050cdbfb6136249efb626/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/qson/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/7025d7408f36b4c451263d2269acad20/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/qson/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/7025d7408f36b4c451263d2269acad20/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/qson/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/6e6a35f25c9beb20a22058ab6c5b199e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/qson/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/6e6a35f25c9beb20a22058ab6c5b199e/AndroidManifest.xml:20:5-44
+INJECTED from /Users/qson/Desktop/工作区/项目/borrow_books/.android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/qson/Desktop/工作区/项目/borrow_books/.android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/qson/Desktop/工作区/项目/borrow_books/.android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/qson/Desktop/工作区/项目/borrow_books/.android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/qson/Desktop/工作区/项目/borrow_books/.android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/qson/Desktop/工作区/项目/borrow_books/.android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/qson/Desktop/工作区/项目/borrow_books/.android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/qson/Desktop/工作区/项目/borrow_books/.android/app/src/main/AndroidManifest.xml

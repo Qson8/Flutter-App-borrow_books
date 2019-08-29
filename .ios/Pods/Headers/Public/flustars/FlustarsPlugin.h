@@ -1,0 +1,1 @@
+../../../../Flutter/.symlinks/flustars/ios/Classes/FlustarsPlugin.h

@@ -1,0 +1,57 @@
+PODS:
+  - flustars (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - FlutterPluginRegistrant (0.0.1):
+    - flustars
+    - Flutter
+    - intro_slider
+    - ovprogresshud
+    - shared_preferences
+  - intro_slider (0.0.1):
+    - Flutter
+  - ovprogresshud (0.0.1):
+    - Flutter
+    - SVProgressHUD
+  - shared_preferences (0.0.1):
+    - Flutter
+  - SVProgressHUD (2.2.5)
+
+DEPENDENCIES:
+  - flustars (from `../.ios/Flutter/.symlinks/flustars/ios`)
+  - Flutter (from `../.ios/Flutter/engine`)
+  - FlutterPluginRegistrant (from `../.ios/Flutter/FlutterPluginRegistrant`)
+  - intro_slider (from `../.ios/Flutter/.symlinks/intro_slider/ios`)
+  - ovprogresshud (from `../.ios/Flutter/.symlinks/ovprogresshud/ios`)
+  - shared_preferences (from `../.ios/Flutter/.symlinks/shared_preferences/ios`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - SVProgressHUD
+
+EXTERNAL SOURCES:
+  flustars:
+    :path: "../.ios/Flutter/.symlinks/flustars/ios"
+  Flutter:
+    :path: "../.ios/Flutter/engine"
+  FlutterPluginRegistrant:
+    :path: "../.ios/Flutter/FlutterPluginRegistrant"
+  intro_slider:
+    :path: "../.ios/Flutter/.symlinks/intro_slider/ios"
+  ovprogresshud:
+    :path: "../.ios/Flutter/.symlinks/ovprogresshud/ios"
+  shared_preferences:
+    :path: "../.ios/Flutter/.symlinks/shared_preferences/ios"
+
+SPEC CHECKSUMS:
+  flustars: 68f8784f3841ce82350ef82598e3b5bc29c36532
+  Flutter: 58dd7d1b27887414a370fcccb9e645c08ffd7a6a
+  FlutterPluginRegistrant: 0315add1d502b3ef7b7d96ea537f6ef35b17549a
+  intro_slider: 85847639533bfd8e898d76844e0aa2cf412ee190
+  ovprogresshud: 00b2a29c6c4a7166f044d00096aa78c224ef9338
+  shared_preferences: 1feebfa37bb57264736e16865e7ffae7fc99b523
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+
+PODFILE CHECKSUM: 72e1e8175dfc89701dce64d331963d9d73fd85e9
+
+COCOAPODS: 1.7.1
