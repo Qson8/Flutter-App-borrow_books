@@ -8,7 +8,7 @@
 ![](https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=835931134,3427191482&fm=26&gp=0.jpg)
 
 2019年8月30号更新
-安卓版apk安装地址：https://www.pgyer.com/Z1Gj
+安卓版apk安装地址：https://www.pgyer.com/VHLe
 
 
 更早以前：
