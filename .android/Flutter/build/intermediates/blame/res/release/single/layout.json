@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/qson/Desktop/工作区/项目/borrow_books/.android/Flutter/build/intermediates/res/merged/release/layout/notification_action.xml",
+        "source": "/Users/qson/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/46ade6d8a2b9ea4214dc3aa5982e4371/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/qson/Desktop/工作区/项目/borrow_books/.android/Flutter/build/intermediates/res/merged/release/layout/notification_template_big_media_custom.xml",
+        "source": "/Users/qson/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/8861c12a2d4ec64d36352e57ad9634f0/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/qson/Desktop/工作区/项目/borrow_books/.android/Flutter/build/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/qson/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/46ade6d8a2b9ea4214dc3aa5982e4371/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/qson/Desktop/工作区/项目/borrow_books/.android/Flutter/build/intermediates/res/merged/release/layout/view_svprogressdefault.xml",
+        "source": "/Users/qson/.gradle/caches/transforms-1/files-1.1/svprogresshud-1.0.6.aar/07f47fa140c2246cc3d7f92b23fa5d28/res/layout/view_svprogressdefault.xml"
+    },
+    {
+        "merged": "/Users/qson/Desktop/工作区/项目/borrow_books/.android/Flutter/build/intermediates/res/merged/release/layout/layout_svprogresshud.xml",
+        "source": "/Users/qson/.gradle/caches/transforms-1/files-1.1/svprogresshud-1.0.6.aar/07f47fa140c2246cc3d7f92b23fa5d28/res/layout/layout_svprogresshud.xml"
+    },
+    {
+        "merged": "/Users/qson/Desktop/工作区/项目/borrow_books/.android/Flutter/build/intermediates/res/merged/release/layout/notification_media_action.xml",
+        "source": "/Users/qson/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/8861c12a2d4ec64d36352e57ad9634f0/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/qson/Desktop/工作区/项目/borrow_books/.android/Flutter/build/intermediates/res/merged/release/layout/notification_template_icon_group.xml",
+        "source": "/Users/qson/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/46ade6d8a2b9ea4214dc3aa5982e4371/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/qson/Desktop/工作区/项目/borrow_books/.android/Flutter/build/intermediates/res/merged/release/layout/notification_template_lines_media.xml",
+        "source": "/Users/qson/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/8861c12a2d4ec64d36352e57ad9634f0/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/qson/Desktop/工作区/项目/borrow_books/.android/Flutter/build/intermediates/res/merged/release/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/qson/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/8861c12a2d4ec64d36352e57ad9634f0/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/qson/Desktop/工作区/项目/borrow_books/.android/Flutter/build/intermediates/res/merged/release/layout/notification_media_cancel_action.xml",
+        "source": "/Users/qson/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/8861c12a2d4ec64d36352e57ad9634f0/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/qson/Desktop/工作区/项目/borrow_books/.android/Flutter/build/intermediates/res/merged/release/layout/notification_template_media.xml",
+        "source": "/Users/qson/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/8861c12a2d4ec64d36352e57ad9634f0/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/qson/Desktop/工作区/项目/borrow_books/.android/Flutter/build/intermediates/res/merged/release/layout/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/qson/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/8861c12a2d4ec64d36352e57ad9634f0/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/qson/Desktop/工作区/项目/borrow_books/.android/Flutter/build/intermediates/res/merged/release/layout/notification_template_big_media.xml",
+        "source": "/Users/qson/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/8861c12a2d4ec64d36352e57ad9634f0/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/qson/Desktop/工作区/项目/borrow_books/.android/Flutter/build/intermediates/res/merged/release/layout/notification_template_part_time.xml",
+        "source": "/Users/qson/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/46ade6d8a2b9ea4214dc3aa5982e4371/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/qson/Desktop/工作区/项目/borrow_books/.android/Flutter/build/intermediates/res/merged/release/layout/notification_template_media_custom.xml",
+        "source": "/Users/qson/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/8861c12a2d4ec64d36352e57ad9634f0/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/qson/Desktop/工作区/项目/borrow_books/.android/Flutter/build/intermediates/res/merged/release/layout/notification_action_tombstone.xml",
+        "source": "/Users/qson/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/46ade6d8a2b9ea4214dc3aa5982e4371/res/layout/notification_action_tombstone.xml"
+    }
+]

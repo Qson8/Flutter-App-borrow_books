@@ -35,6 +35,8 @@ xcuserdata
 Icon?
 .tags*
 
+.keystore
+
 # build/
 # .android/
 # .ios/

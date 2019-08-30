@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/qson/Desktop/工作区/项目/borrow_books/.android/Flutter/build/intermediates/res/merged/release/drawable-hdpi-v4/notification_bg_normal.9.png",
+        "source": "/Users/qson/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/46ade6d8a2b9ea4214dc3aa5982e4371/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/qson/Desktop/工作区/项目/borrow_books/.android/Flutter/build/intermediates/res/merged/release/drawable-hdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/Users/qson/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/46ade6d8a2b9ea4214dc3aa5982e4371/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/qson/Desktop/工作区/项目/borrow_books/.android/Flutter/build/intermediates/res/merged/release/drawable-hdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/Users/qson/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/46ade6d8a2b9ea4214dc3aa5982e4371/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/qson/Desktop/工作区/项目/borrow_books/.android/Flutter/build/intermediates/res/merged/release/drawable-hdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/Users/qson/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/46ade6d8a2b9ea4214dc3aa5982e4371/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/qson/Desktop/工作区/项目/borrow_books/.android/Flutter/build/intermediates/res/merged/release/drawable-hdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/Users/qson/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/46ade6d8a2b9ea4214dc3aa5982e4371/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    }
+]

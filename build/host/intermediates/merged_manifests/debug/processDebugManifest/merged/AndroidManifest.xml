@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.borrow_books.host"
+    package="com.qson.borrow_books.host"
     android:versionCode="1"
     android:versionName="1.0" >
 
@@ -25,7 +25,8 @@
         android:name="io.flutter.app.FlutterApplication"
         android:debuggable="true"
         android:icon="@mipmap/ic_launcher"
-        android:label="borrow_books" >
+        android:label="借书易" >
+application
         <activity
             android:name="com.example.borrow_books.host.MainActivity"
             android:configChanges="orientation|keyboardHidden|keyboard|screenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"

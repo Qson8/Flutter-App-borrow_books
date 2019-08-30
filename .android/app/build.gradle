@@ -2,6 +2,10 @@ def flutterPluginVersion = 'managed'
 
 apply plugin: 'com.android.application'
 
+def keystorePropertiesFile = rootProject.file("key.properties")
+def keystoreProperties = new Properties()
+keystoreProperties.load(new FileInputStream(keystorePropertiesFile))
+
 android {
     compileSdkVersion 28
 
@@ -11,24 +15,33 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.example.borrow_books.host"
+        applicationId "com.qson.borrow_books.host"
         minSdkVersion 16
         targetSdkVersion 28
         versionCode 1
         versionName "1.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+        ndk {
+            abiFilters 'armeabi-v7a'
+        }
     }
 
-    buildTypes {
-        profile {
-            initWith debug
-        }
-        release {
-            // TODO: Add your own signing config for the release build.
-            // Signing with the debug keys for now, so `flutter run --release` works.
-            signingConfig signingConfigs.debug
-        }
+signingConfigs {
+    release {
+        keyAlias keystoreProperties['keyAlias']
+        keyPassword keystoreProperties['keyPassword']
+        storeFile file(keystoreProperties['storeFile'])
+        storePassword keystoreProperties['storePassword']
     }
+}
+buildTypes {
+    release {
+//        signingConfig signingConfigs.release
+        signingConfig signingConfigs.debug
+        proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+    }
+
+}
 
 }
 buildDir = new File(rootProject.projectDir, "../build/host")

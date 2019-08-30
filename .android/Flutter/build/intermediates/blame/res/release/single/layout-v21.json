@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/qson/Desktop/工作区/项目/borrow_books/.android/Flutter/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/qson/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/46ade6d8a2b9ea4214dc3aa5982e4371/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/qson/Desktop/工作区/项目/borrow_books/.android/Flutter/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/qson/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/46ade6d8a2b9ea4214dc3aa5982e4371/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/qson/Desktop/工作区/项目/borrow_books/.android/Flutter/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/qson/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/46ade6d8a2b9ea4214dc3aa5982e4371/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/qson/Desktop/工作区/项目/borrow_books/.android/Flutter/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/qson/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/46ade6d8a2b9ea4214dc3aa5982e4371/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

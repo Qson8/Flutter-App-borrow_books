@@ -56,7 +56,7 @@ ADDED from /Users/qson/Desktop/工作区/项目/borrow_books/.android/app/src/ma
 MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/qson/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/1708744ece2ece52e7ace22e58918017/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/qson/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/1708744ece2ece52e7ace22e58918017/AndroidManifest.xml:9:5-20
 	android:label
-		ADDED from /Users/qson/Desktop/工作区/项目/borrow_books/.android/app/src/main/AndroidManifest.xml:18:9-37
+		ADDED from /Users/qson/Desktop/工作区/项目/borrow_books/.android/app/src/main/AndroidManifest.xml:18:9-28
 	android:icon
 		ADDED from /Users/qson/Desktop/工作区/项目/borrow_books/.android/app/src/main/AndroidManifest.xml:19:9-43
 	android:name

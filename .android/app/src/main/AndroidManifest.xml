@@ -15,7 +15,7 @@
          FlutterApplication and put your custom class here. -->
     <application
         android:name="io.flutter.app.FlutterApplication"
-        android:label="borrow_books"
+        android:label="借书易"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/qson/Desktop/工作区/项目/borrow_books/.android/Flutter/build/intermediates/res/merged/release/anim/svslide_in_bottom.xml",
+        "source": "/Users/qson/.gradle/caches/transforms-1/files-1.1/svprogresshud-1.0.6.aar/07f47fa140c2246cc3d7f92b23fa5d28/res/anim/svslide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/qson/Desktop/工作区/项目/borrow_books/.android/Flutter/build/intermediates/res/merged/release/anim/svfade_in_center.xml",
+        "source": "/Users/qson/.gradle/caches/transforms-1/files-1.1/svprogresshud-1.0.6.aar/07f47fa140c2246cc3d7f92b23fa5d28/res/anim/svfade_in_center.xml"
+    },
+    {
+        "merged": "/Users/qson/Desktop/工作区/项目/borrow_books/.android/Flutter/build/intermediates/res/merged/release/anim/svslide_in_top.xml",
+        "source": "/Users/qson/.gradle/caches/transforms-1/files-1.1/svprogresshud-1.0.6.aar/07f47fa140c2246cc3d7f92b23fa5d28/res/anim/svslide_in_top.xml"
+    },
+    {
+        "merged": "/Users/qson/Desktop/工作区/项目/borrow_books/.android/Flutter/build/intermediates/res/merged/release/anim/svslide_out_bottom.xml",
+        "source": "/Users/qson/.gradle/caches/transforms-1/files-1.1/svprogresshud-1.0.6.aar/07f47fa140c2246cc3d7f92b23fa5d28/res/anim/svslide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/qson/Desktop/工作区/项目/borrow_books/.android/Flutter/build/intermediates/res/merged/release/anim/svslide_out_top.xml",
+        "source": "/Users/qson/.gradle/caches/transforms-1/files-1.1/svprogresshud-1.0.6.aar/07f47fa140c2246cc3d7f92b23fa5d28/res/anim/svslide_out_top.xml"
+    },
+    {
+        "merged": "/Users/qson/Desktop/工作区/项目/borrow_books/.android/Flutter/build/intermediates/res/merged/release/anim/svfade_out_center.xml",
+        "source": "/Users/qson/.gradle/caches/transforms-1/files-1.1/svprogresshud-1.0.6.aar/07f47fa140c2246cc3d7f92b23fa5d28/res/anim/svfade_out_center.xml"
+    }
+]
