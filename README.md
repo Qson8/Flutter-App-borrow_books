@@ -1,8 +1,9 @@
 # borrow_books
 
-![](https://appicon.pgyer.com/image/view/app_icons/0527296d6b20504eed0f68ef19c7140a/120)
 
 ![](/images/2x/login_icon.png =100x)
+
+<img src="h/images/2x/login_icon.png" width="100" hegiht="100" align=center />
 
 借书易App，是一款本地图书馆内借书用的借书软件，节省借书时间，提前预定，到店凭二维码借出，让你最快最方便的借到您想要的书籍。
 
