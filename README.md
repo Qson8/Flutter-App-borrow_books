@@ -10,12 +10,6 @@
 # introduce
 ![](https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=835931134,3427191482&fm=26&gp=0.jpg)
 
-2019年8月30号更新: 
-
-[安卓版apk安装包](https://www.pgyer.com/VHLe),可以点击安装安卓版本。
-
-
-更早以前:
 
 因近期公司项目采用原生OC和flutter混合开发，所以就自己快速的写了个纯flutter练练手，数据全部都是静态，旨在熟悉flutter开发整个流程。
 
